@@ -1,8 +1,8 @@
 # Car-logo-detector
 
 Car-logo-detector is a educational project for train web scaping, image preparation and deep learning.
-The goal of the project is a make neutronal network for recognize car brand using photo of logo.
-Link to dataset  [link](https://drive.google.com/open?id=1j5ADjXvQrdkA7htBxE3nsVVe05S878pB)
+<br>The goal of the project is a make neutronal network for recognize car brand using photo of logo.
+<br>Link to dataset  [link](https://drive.google.com/open?id=1j5ADjXvQrdkA7htBxE3nsVVe05S878pB)
 ![image](/logo_pred_image.png)
 
 
